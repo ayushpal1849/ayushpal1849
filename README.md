@@ -1,15 +1,15 @@
 # Hi 👋, I'm Ayush Pal
 
-🚀 **Python Developer | Backend Engineer | AI/ML Enthusiast**
+🚀 **Python Developer | Backend Engineer | AI / ML Enthusiast**
 
-I am a results-driven Python Developer with hands-on experience in building **scalable backend systems, REST APIs, and AI/ML-powered applications**.  
-I enjoy solving real-world problems using **Python, FastAPI, Machine Learning, and Computer Vision**.
+I am a Python Developer with 1+ year of hands-on experience in building **scalable backend systems, REST APIs, and AI/ML-powered applications**.  
+I enjoy working on **real-world problem solving**, backend architecture, and intelligent systems using Python.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming & Backend
+### 👨‍💻 Backend & Programming
 - Python
 - FastAPI, Flask
 - REST API Development
@@ -21,10 +21,10 @@ I enjoy solving real-world problems using **Python, FastAPI, Machine Learning, a
 - NLP & OCR Pipelines
 - Computer Vision (YOLO, Tesseract)
 
-### 📊 Data & Tools
+### ⚙️ Tools & Others
 - Pandas, NumPy, Matplotlib
 - Git & GitHub
-- Docker (basic)
+- Docker (Basics)
 - Linux
 
 ---
@@ -33,9 +33,9 @@ I enjoy solving real-world problems using **Python, FastAPI, Machine Learning, a
 
 ### 🔍 OCR + NLP Data Extraction Pipeline
 **Tech:** Python, FastAPI, YOLO, Tesseract, NLP  
-- Built an end-to-end OCR pipeline for extracting structured data from documents  
-- Used YOLO for document detection and Tesseract for text recognition  
-- Exposed the pipeline as REST APIs using FastAPI  
+- End-to-end OCR system for extracting structured data from documents  
+- YOLO used for document detection and Tesseract for text recognition  
+- REST APIs built using FastAPI for scalable integration  
 
 🔗 Repo: https://github.com/ayushpal1849/ocr-nlp-pipeline
 
@@ -43,34 +43,39 @@ I enjoy solving real-world problems using **Python, FastAPI, Machine Learning, a
 
 ### 📈 Churn Prediction API
 **Tech:** Python, FastAPI, Machine Learning  
-- Developed a machine learning model to predict customer churn  
-- Deployed the model as a REST API using FastAPI  
-- Focused on clean architecture and scalable API design  
+- Built ML model to predict customer churn  
+- Model deployed as REST API using FastAPI  
+- Clean project structure with focus on scalability  
 
 🔗 Repo: https://github.com/ayushpal1849/churn-prediction-api
 
 ---
 
-## 📚 What I'm Currently Learning
-- Advanced Backend Architecture
-- System Design Basics
-- Model Optimization & Deployment
-- Cloud & DevOps fundamentals
+## 📊 GitHub Stats
+
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushpal1849&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpal1849&layout=compact)
+
+---
+
+## 📚 Currently Learning
+- Backend System Design
+- Model Deployment & Optimization
+- Cloud & DevOps Fundamentals
+- Scalable API Architecture
 
 ---
 
 ## 🤝 Open to Opportunities
 - Python Developer
 - Backend Developer
-- AI / ML Engineer (Entry-level / Junior)
+- Junior AI / ML Engineer
 - Remote & On-site Roles
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/ayush-pal-ap223  
-- 🧑‍💻 GitHub: https://github.com/ayushpal1849  
+- 💼 LinkedIn: https://www.linkedin.com/in/ayush-pal-ap223
+- 🧑‍💻 GitHub: https://github.com/ayushpal1849
 
----
-
-⭐ If you like my work, consider giving a star to my repositories!
+⭐ Feel free to explore my repositories and give a star if you like my work!

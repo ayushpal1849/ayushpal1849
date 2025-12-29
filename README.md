@@ -51,13 +51,6 @@ I enjoy working on **real-world problem solving**, backend architecture, and int
 
 ---
 
-## 📊 GitHub Stats
-
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushpal1849&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpal1849&layout=compact)
-
----
-
 ## 📚 Currently Learning
 - Backend System Design
 - Model Deployment & Optimization

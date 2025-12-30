@@ -6,9 +6,10 @@ Python Developer | Backend Engineer | AI/ML Enthusiast
 I am a Python Developer with 1+ year of hands-on experience in building **scalable backend systems, REST APIs, and AI/ML-powered applications**.  
 I enjoy working on **real-world problem solving**, backend architecture, and intelligent systems using Python.
 
----
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ https://www.linkedin.com/in/ayush-pal-ap223) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushpal1849@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ https://www.linkedin.com/in/ayush-pal-ap223) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushpal1849@gmail.com)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -87,5 +88,3 @@ I enjoy working on **real-world problem solving**, backend architecture, and int
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ayushpal1849&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

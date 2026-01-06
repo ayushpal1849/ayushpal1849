@@ -1,10 +1,12 @@
 # Hi 👋, I'm Ayush Pal
 
 ## 💫 About Me:
-Python Developer | Backend Engineer | AI/ML Enthusiast
+Python Developer | Backend Developer | AI/ML Enthusiast
 
-I am a Python Developer with 1+ year of hands-on experience in building **scalable backend systems, REST APIs, and AI/ML-powered applications**.  
-I enjoy working on **real-world problem solving**, backend architecture, and intelligent systems using Python.
+Python Backend Developer with 1+ year of experience building RESTful APIs 
+using FastAPI and Flask.
+
+I focus on backend engineering, asynchronous APIs, and clean architecture.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ https://www.linkedin.com/in/ayush-pal-ap223) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushpal1849@gmail.com)
@@ -44,8 +46,8 @@ I enjoy working on **real-world problem solving**, backend architecture, and int
 
 ## 📌 Featured Projects
 
-### 🔍 OCR + NLP Data Extraction Pipeline
-**Tech:** Python, FastAPI, YOLO, Tesseract, NLP  
+### 🔍 OCR & Data Extraction API
+**Tech:** Python, FastAPI, YOLO, Tesseract  
 - End-to-end OCR system for extracting structured data from documents  
 - YOLO used for document detection and Tesseract for text recognition  
 - REST APIs built using FastAPI for scalable integration  
@@ -83,6 +85,7 @@ I enjoy working on **real-world problem solving**, backend architecture, and int
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/ayush-pal-ap223
 - 🧑‍💻 GitHub: https://github.com/ayushpal1849
+- 📍 Resume Available on Request
 
 ⭐ Feel free to explore my repositories and give a star if you like my work!
 ---
